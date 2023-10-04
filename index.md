@@ -35,6 +35,6 @@ IIT Guwahati,
 
 Assam-781039
 
-Email : ckirti@iitg.ac.in
+Email : ckirti@iitg.ac.in,
         chaitanyakirti@gmail.com
 
