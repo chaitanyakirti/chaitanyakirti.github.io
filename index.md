@@ -8,16 +8,16 @@ layout: default
 
 IIT Guwahati
 
-_Email: pankajchoudhury@iitg.ac.in_
+_Email: ckirti@iitg.ac.in_
 
 # About me
 
-Hello, I’m Pankaj Choudhury currently pursuing my PhD from Centre for Linguistic Science and Technology, IIT Guwahati. My research topic is “Automatic Image Caption generation in Assamese Language”. My thesis supervisors are Dr. Prithwijit Guha and Prof. Sukumar Nandi.    
+Hello, I’m Chaitanya Kirti, currently pursuing my PhD from the Centre for Linguistic Science and Technology, IIT Guwahati. My research topic is “Event Extraction from Short Stories”. My thesis supervisors are Prof. Ashish Anand and Dr. Prithwijit Guha.    
 
 # Education
 - Ph.D., CLST | Indian Institue of Technology Guwahati 							       		
-- M.Tech., CSE	| Assam Univeristy, Silchar (_May 2016_)	 			        		
-- B.Tech., CSE | Don Bosco College of Engg & Tech, Guwahati (_July 2012_)
+- PG, Linguistics	| Jawaharlal Nehru University, New Delhi 			        		
+- UG, E&I | Silicon Institute of Technology, Bhubaneswar 
 
 # Research
 
