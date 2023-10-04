@@ -21,12 +21,11 @@ Hello, I’m Chaitanya Kirti, currently pursuing my PhD from the Centre for Ling
 
 # Research
 
-Automatic Image caption generation is the process of generating textual description of an image. It uses both Natural Language Processing and Computer Vision to generate the captions. Given a input image the model generates a natural language description of the image. To generate the description the model use Computer vision to understand the image and later with the help of Natural Language Processing generates semantically and syntactically correct descriptions. My research goal is to generate captions in low resource Assamese language. I am also interested in other topics like visual question answering, face detection etc.
+In natural language processing (NLP), event extraction aims at detecting event instance(s) in texts and identifying the event type together with its participants and attributes, if existing. The obtained structured representations of events can further be used in diverse tasks, such as to expand existing knowledge base, to monitor social events, and so on.
 
 
 # Publication
-1. P. Choudhury, P. Guha, S. Nandi  “Image Caption Synthesis for Low Resource Assamese Language using Bi-LSTM with Bilinear Attention.” 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37), 2023 (Accepted)
-2. Y. Aggarwal, P. Choudhury, P. Guha “Face Detection in Challenging Scenes with a Customized Backbone” 8th International Conference on Computer Vision & Image Processing (CVIP-2023), 2023 (Accepted)
+
 
 # Contact
 
