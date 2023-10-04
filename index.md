@@ -29,11 +29,12 @@ In natural language processing (NLP), event extraction aims at detecting event i
 
 # Contact
 
-Address: CLST Central Library 3rd floor,
+Address: CLST, 3rd floor, Central Library Building,
 
 IIT Guwahati, 
 
 Assam-781039
 
-Email : pankajchoudhury@iitg.ac.in
+Email : ckirti@iitg.ac.in
+        chaitanyakirti@gmail.com
 
