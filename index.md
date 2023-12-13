@@ -26,7 +26,7 @@ In natural language processing (NLP), event extraction aims at detecting event i
 
 # Publication
 1. C. Kirti, A. Chattopadhyay, A. Anand, P. Guha “Deciphering Storytelling Events: A Study of Neural and Prompt-Driven Event Detection in Short Stories” 2023 International Conference on Asian Language Processing (IALP), Singapore, 2023.
-2. C. Kirti, P. Choudhury, A. Anand, P. Guha “An Annotated Corpus for Realis Event Detection in Short Stories Written in English and Low Resource Assamese Language” 2023 International Conference on Natural Language Processing (ICON),Goa, India, 2023
+2. C. Kirti, P. Choudhury, A. Anand, P. Guha “An Annotated Corpus for Realis Event Detection in Short Stories Written in English and Low Resource Assamese Language” 2023 International Conference on Natural Language Processing (ICON),Goa, India, 2023.
 
 # Contact
 
