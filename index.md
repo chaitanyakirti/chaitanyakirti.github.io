@@ -15,9 +15,9 @@ _Email: ckirti@iitg.ac.in_
 Hello, I’m Chaitanya Kirti, currently pursuing my PhD from the Centre for Linguistic Science and Technology, IIT Guwahati. My research topic is “Event Extraction from Short Stories”. My thesis supervisors are Prof. Ashish Anand and Dr. Prithwijit Guha.    
 
 # Education
-- Ph.D., CLST | Indian Institue of Technology Guwahati 							       		
-- PG, Linguistics	| Jawaharlal Nehru University, New Delhi 			        		
-- UG, E&I | Silicon Institute of Technology, Bhubaneswar 
+- Integrated MS+Ph.D., CLST | Indian Institue of Technology Guwahati 							       		
+- MA, Linguistics	| Jawaharlal Nehru University, New Delhi 			        		
+- B.Tech, E&I | Silicon Institute of Technology, Bhubaneswar 
 
 # Research
 
